@@ -1,4 +1,4 @@
-## 🪐 Universo dos Planetas 🪐
+## 🪐 Universo dos Planetas -  Imersão DEV da Alura com Google Gemini - 2024🪐
 
 
 ![tela projeto](img/telaprojeto.png)
@@ -56,10 +56,7 @@ Agradeço a todos que contribuíram para este projeto!
 Projeto Feito Durante A Imersão DEV Da Alura Com Google Gemini - 2024
 
 
-
-
 ---
-
 
 
 **Link direto do vercel** https://olauniverso.vercel.app/
