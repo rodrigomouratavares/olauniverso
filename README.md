@@ -51,9 +51,9 @@ Projeto Feito Durante A Imersão DEV Da Alura Com Google Gemini - 2024
 
 ---
 
-Link direto do vercel https://olauniverso.vercel.app/
+**Link direto do vercel** https://olauniverso.vercel.app/
 
-Link direto do GitHub https://github.com/MARCIO-MACH4DO/olauniverso
+**Link direto do GitHub** https://github.com/MARCIO-MACH4DO/olauniverso
 
 
 
