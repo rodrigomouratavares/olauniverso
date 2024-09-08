@@ -1,6 +1,6 @@
 ## 🪐 Universo dos Planetas 🪐
 
-* - ![](https://media.tenor.com/aGwCdl0YdAMAAAAi/astronauta-moon.gif)
+* ![](https://media.tenor.com/aGwCdl0YdAMAAAAi/astronauta-moon.gif)
 
 ###  Sobre o Projeto
 
@@ -15,22 +15,26 @@ Este projeto web te convida a uma jornada pelo cosmos, permitindo que você pesq
 * **Dados Completos:** Uma vasta base de dados com informações detalhadas sobre cada planeta.
 * **Responsivo:** Adapta-se perfeitamente a diferentes dispositivos, desde smartphones até desktops.
 
+
 ### ️ Tecnologias Utilizadas
 
-* - ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) **HTML:** Estrutura básica da página.
-* - ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) **CSS:** Estilização e layout visual.
-* - ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript:** Lógica para a pesquisa e exibição dos resultados.
+*  ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) **HTML:** Estrutura básica da página.
+*  ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) **CSS:** Estilização e layout visual.
+*  ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript:** Lógica para a pesquisa e exibição dos resultados.
+
+
 
 
 ###  Como Usar
 
 1. **Clone o repositório:** 
-   ```bash
+   
    git clone https://github.com/MARCIO-MACH4DO/olauniverso
 
 2. Abra o projeto: Abra o arquivo index.html em seu navegador.
 
 3. Pesquise: Digite o nome de um planeta no campo de pesquisa e clique no botão.
+
 
 
 
@@ -40,9 +44,9 @@ Agradeço a todos que contribuíram para este projeto!
 Projeto Feito Durante A Imersão DEV Da Alura Com Google Gemini - 2024
 
 
-#Link direto do vercel https://olauniverso.vercel.app/
+##Link direto do vercel https://olauniverso.vercel.app/
 
-#Link direto do GitHub https://github.com/MARCIO-MACH4DO/olauniverso
+##Link direto do GitHub https://github.com/MARCIO-MACH4DO/olauniverso
 
 
 
