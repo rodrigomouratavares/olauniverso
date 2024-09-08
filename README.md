@@ -14,7 +14,7 @@ Este projeto web te convida a uma jornada pelo cosmos, permitindo que você pesq
 
 ---
 
-**Funcionalidades:**
+## Funcionalidades:
 * **Pesquisa Intuitiva:** Digite o nome de um planeta e descubra detalhes como descrição, imagens e links para mais informações.
 * **Interface Amigável:** O design limpo e intuitivo torna a navegação fácil e agradável.
 * **Dados Completos:** Uma vasta base de dados com informações detalhadas sobre cada planeta.
