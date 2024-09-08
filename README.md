@@ -1,7 +1,7 @@
 ## 🪐 Universo dos Planetas 🪐
 
-![](https://media.tenor.com/aGwCdl0YdAMAAAAi/astronauta-moon.gif)
 
+![tela projeto](img/telaprojeto.png)
 
 ---
 
@@ -56,4 +56,4 @@ Projeto Feito Durante A Imersão DEV Da Alura Com Google Gemini - 2024
 **Link direto do GitHub** https://github.com/MARCIO-MACH4DO/olauniverso
 
 
-
+![](https://media.tenor.com/aGwCdl0YdAMAAAAi/astronauta-moon.gif)
